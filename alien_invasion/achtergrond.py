@@ -1,7 +1,5 @@
 import pygame
 
-import pygame
-
 class Background:
 	"""A class to manage the ship."""
 
